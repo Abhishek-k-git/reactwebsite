@@ -3,7 +3,7 @@
 ## Technology used
 <a href="#"> <img alt="React" src="https://github.com/Abhishek-k-git/image/blob/main/react.png" width="40" height="40" /> </a>
 
-**visit here:** <a href="http://www.techscinotes.xyz"><img alt="React App" src="https://github.com/Abhishek-k-git/image/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
+**visit here:** <a href="http://www.techscinotes.xyz"><img alt="React App" src="https://abhishek-k-git.github.io/reactwebsite/" width="20" height="20" style="margin-right:20px;" /></a>
 
 ## Available Scripts
 
