@@ -2,8 +2,12 @@
 
 ## Technology used
 <a href="#"> <img alt="React" src="https://github.com/Abhishek-k-git/image/blob/main/react.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="Bootstrap5" src="https://github.com/Abhishek-k-git/image/blob/main/bootstrap.svg" width="40" height="40" /> </a>
 
 **visit here:** <a href="https://abhishek-k-git.github.io/reactwebsite/"><img alt="React App" src="https://as2.ftcdn.net/jpg/02/50/30/59/500_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" width="30" height="30" style="margin-right:20px;" /></a>
+```diff
+- Note: If it doesn't work in your computer/laptop, Open in inspect mode or small devices.
+```
 
 ## Available Scripts
 
